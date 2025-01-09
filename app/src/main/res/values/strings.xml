@@ -1,3 +1,24 @@
 <resources>
     <string name="app_name">Notes</string>
+    <!-- Login activity -->
+    <string name="started_title">Bienvenido!!!!</string>
+    <string name="started_subtitle">
+        <br><b>Login</b> para acceder a la aplicacion.</br>
+        <br><b>Register</b> para crear un nuevo usuario y acceder a la aplicacion.</br>
+    </string>
+    <string name="tv_username_login">Username</string>
+    <string name="et_username_login">Escribe tu usuario</string>
+    <string name="tv_password_login">Password</string>
+    <string name="et_password_login">Escribe tu contraseña</string>
+    <string name="tv_btn_login">LOGIN</string>
+    <string name="tv_btn_register">REGISTER</string>
+
+    <!-- Register dialog -->
+    <string name="tv_username_register">Username</string>
+    <string name="et_username_register">Escribe tu usuario</string>
+    <string name="tv_password_register">Password</string>
+    <string name="et_password_register">Escribe tu contraseña</string>
+    <string name="tv_email_register">Email</string>
+    <string name="et_email_register">Escribe tu correo electronico</string>
+    <string name="et_confirm_password_register">Confirma tu contraseña</string>
 </resources>
