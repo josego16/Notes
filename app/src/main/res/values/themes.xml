@@ -13,7 +13,7 @@
 
     <style name="Theme.Notes" parent="Base.Theme.Notes" />
 
-    <style name="Theme.MvvmLogin.NoActionBar">
+    <style name="Theme.Notes.NoActionBar">
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
     </style>
