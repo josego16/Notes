@@ -4,7 +4,7 @@
     <string name="started_title">Bienvenido!!!!</string>
     <string name="started_subtitle">
         <br><b>Login</b> para acceder a la aplicacion.</br>
-        <br><b>Register</b> para crear un nuevo usuario y acceder a la aplicacion.</br>
+        <br><b>Registrate</b> para crear un nuevo usuario y acceder a la aplicacion.</br>
     </string>
     <string name="tv_username_login">Username</string>
     <string name="et_username_login">Escribe tu usuario</string>
@@ -23,4 +23,10 @@
     <string name="et_confirm_password_register">Confirma tu contraseña</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tv_forgot_password">¿Olvidaste la contraseña?</string>
+    <string name="tv_no_account">¿No tienes una cuenta?</string>
+    <string name="tv_sign_up">Registrate</string>
+    <string name="tv_register">Añadir una cuenta nueva</string>
+    <string name="tv_sign_in">Iniciar sesion</string>
+    <string name="tv_have_account">¿Ya tienes una cuenta?</string>
 </resources>
